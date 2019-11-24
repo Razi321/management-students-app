@@ -1,0 +1,50 @@
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\projet.exe.config
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\projet.exe
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\projet.pdb
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.csprojAssemblyReference.cache
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.csproj.ResolveComReference.cache
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.Form1.resources
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.Properties.Resources.resources
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.csproj.GenerateResource.cache
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.csproj.CoreCompileInputs.cache
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.exe
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.pdb
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.Form2.resources
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.Form3.resources
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\MySql.Data.dll
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\Google.Protobuf.dll
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\MySql.Data.xml
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mon Pc\source\repos\projet\projet\obj\Debug\projet.csproj.CopyComplete
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\projet.exe.config
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\projet.exe
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\projet.pdb
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\MySql.Data.dll
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\Google.Protobuf.dll
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\MySql.Data.xml
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\Interop.WMPLib.dll
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Razi\Desktop\projet\projet\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.csprojAssemblyReference.cache
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\Interop.WMPLib.dll
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.csproj.ResolveComReference.cache
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.Form1.resources
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.Form2.resources
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.Form3.resources
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.Properties.Resources.resources
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.csproj.GenerateResource.cache
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.csproj.CoreCompileInputs.cache
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.csproj.CopyComplete
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.exe
+C:\Users\Razi\Desktop\projet\projet\obj\Debug\projet.pdb
